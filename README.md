@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end development projects**
 
-- 💬 Ask me about **javascript, css, html**
+- 💬 Ask me about **Javascript, HTML, CSS, React**
 
 - 📫 How to reach me **senaysenturk@outlook.com**
 
