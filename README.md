@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Şenay</h1>
-<h3 align="center">A passionate Junior frontend developer and Senior ITSM Consultant</h3>
+<h3 align="center">A passionate Junior Frontend Developer and Senior ITSM Consultant</h3>
 
 - 🔭 I’m currently working at **Bilge Adam Technology**
 
